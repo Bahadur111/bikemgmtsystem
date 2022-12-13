@@ -1,0 +1,3 @@
+ducati,ducati-c,Green,649,$3000
+pulsar,pulsar-c,Brown,541,$4000
+KTM390,Dukeee-c,olive,176,$5000
